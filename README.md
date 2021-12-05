@@ -1,2 +1,2 @@
 # Talent-Show-With-GUI
-Talent Show but with GUI made in NetBeans
+Talent Show application but with GUI made in NetBeans.
